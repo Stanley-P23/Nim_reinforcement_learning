@@ -1,0 +1,1 @@
+The agent trains by playing thousands of games against itself, updating its knowledge of state-action values based on rewards. Over time, it learns to choose optimal moves and can successfully compete against a human player in real time.
